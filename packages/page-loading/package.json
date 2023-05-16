@@ -27,7 +27,7 @@
     "react-dom": ">=16.7.0"
   },
   "dependencies": {
-    "@babel/runtime": "~7.20.1"
+    "@babel/runtime": "~7.21.0"
   },
   "devDependencies": {
     "antd": "5.4.7",

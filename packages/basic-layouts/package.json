@@ -33,7 +33,7 @@
     "@antdp/document-title": "2.0.9",
     "@antdp/fullscreen": "2.0.9",
     "@antdp/layout-tabs": "2.0.9",
-    "@babel/runtime": "~7.20.1"
+    "@babel/runtime": "~7.21.0"
   },
   "devDependencies": {
     "@umijs/max": "~4.0.47",
